@@ -11,7 +11,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "We're so back"
+  title: "text-encrypted-effect",
 };
 
 export default function RootLayout({
